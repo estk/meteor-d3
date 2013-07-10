@@ -1,0 +1,8 @@
+{
+  "name": "meteor-d3",
+  "description": "The d3 graphing library required for Rickshaw packaged for meteor.",
+  "homepage": "https://github.com/estk/meteor-d3",
+  "author": "Evan Simmons <esims89@gmail.com>",
+  "version": "2.10.3",
+  "git": "https://github.com/estk/meteor-d3"
+}
